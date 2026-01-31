@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://collection.cloudinary.com/dvsf7xfdy/d8d9b2864a2c159b26f48189f32e267f", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dvsf7xfdy/video/upload/v1769857018/LeleMusic_-_Mai_cer_de_la_cer_zile_sa_le_petrec_cu_tine_Manele_VTM_wn8dgl.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
